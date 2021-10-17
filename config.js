@@ -1,20 +1,18 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+titleWeb:" Gửi cho cục cưng của toi",
+introTitle:'Nhật Hà cute <3',
+introDesc:`Tò mò lắm phải hong, muốn biết bên trong có gì lắm phải hong ^^
+Nhấn vào password tình iu đi nè >.<',
+btnIntro:'Puppy love Sheep (\^.^/)',
+title:'Tính tui rất thích la cà',
+desc:'Bây giờ chỉ muốn bên cạnh Hà thuii 😘',
+btnYes:'hehe,tui cũng mún bên Kha <33',
+btnNo:'hix,khó chọn quá đi nè T.T',
+question:'Thế giới có 7 tỷ người, sao bé lại muốn bên cạnh toi :3',
+btnReply:'Gửi cho Kha <3',
+reply:'Tui gặp nhiều bạn nam lắm, nhưng dễ thương như Kha thì tui mới thích',
+mess:'Kha bít mờ 😜. Kha cũng thích Nhật Hà từ cái nhìn đầu tiên😜',
+messDesc:'Hẹn bé 1 buổi chiều tui chở bé đi đu đưa nhá 😎.',
+btnAccept:' Thích thì chiều lun bae ơi <33',
+fbLink:'https://www.facebook.com/hoangkha.vu.9'
 }
