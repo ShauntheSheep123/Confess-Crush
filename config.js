@@ -1,5 +1,5 @@
 const CONFIG = {
-titleWeb:" Gửi cho cục cưng của toi",
+titleWeb:' Gửi cho cục cưng của toi',
 introTitle:'Nhật Hà cute <3',
 introDesc:`Tò mò lắm phải hong, muốn biết bên trong có gì lắm phải hong ^^
 Nhấn vào password tình iu đi nè >.<',
