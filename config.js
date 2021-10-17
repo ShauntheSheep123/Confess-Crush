@@ -1,7 +1,7 @@
 const CONFIG = {
 titleWeb:' Gửi cho cục cưng của toi',
 introTitle:'Nhật Hà cute <3',
-introDesc:`Tò mò lắm phải hong, muốn biết bên trong có gì lắm phải hong ^^
+introDesc:'Tò mò lắm phải hong, muốn biết bên trong có gì lắm phải hong ^^
 Nhấn vào password tình iu đi nè >.<',
 btnIntro:'Puppy love Sheep (\^.^/)',
 title:'Tính tui rất thích la cà',
@@ -13,6 +13,6 @@ btnReply:'Gửi cho Kha <3',
 reply:'Tui gặp nhiều bạn nam lắm, nhưng dễ thương như Kha thì tui mới thích',
 mess:'Kha bít mờ 😜. Kha cũng thích Nhật Hà từ cái nhìn đầu tiên😜',
 messDesc:'Hẹn bé 1 buổi chiều tui chở bé đi đu đưa nhá 😎.',
-btnAccept:' Thích thì chiều lun bae ơi <33',
-fbLink:'https://www.facebook.com/hoangkha.vu.9'
+btnAccept:'Thích thì chiều lun bae ơi <33',
+fbLink:'https://www.facebook.com/hoangkha.vu.9',
 }
